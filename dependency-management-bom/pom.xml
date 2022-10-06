@@ -34,7 +34,6 @@
                 <scope>test</scope>
             </dependency>
 
-
             <dependency>
                 <groupId>liga.medical</groupId>
                 <artifactId>common-dto</artifactId>
